@@ -8,6 +8,6 @@ The RDS files of Seurat objects needed to reproduce the results can be found on 
 https://zenodo.org/records/20549537 (DOI: 10.5281/zenodo.20549537) <BR>
 
 The single-cell sequencing raw data are uploaded to NCBI Sequence Read Archive (SRA): <BR>
-BioProject number PRJNA1467292 <BR>
+https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1467292 (BioProject number PRJNA1467292) <BR>
 The single-cell sequencing processed datasets are uploaded to NCBI Gene Expression Omnibus (GEO): <BR>
-Accession number GSE333591 (Reviewer token: kdafmyoknzappof)
+https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE333591 (Accession number GSE333591; Reviewer token: kdafmyoknzappof)
