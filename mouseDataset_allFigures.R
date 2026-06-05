@@ -1,7 +1,3 @@
-### Set working directory ######################################################
-setwd("C:/Users/mwietec2/OneDrive - University of Illinois Chicago/Desktop/Collaborations/Tim Koh, Diabetic Wound Healing")
-
-
 # General
 library(ggplot2)
 library(patchwork)
